@@ -1,0 +1,362 @@
+[
+    {
+        "Title": "Captain Marvel",
+        "Year": "2019",
+        "Rated": "PG-13",
+        "Released": "08 Mar 2019",
+        "Runtime": "123 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Anna Boden, Ryan Fleck",
+        "Writer": "Anna Boden, Ryan Fleck, Geneva Robertson-Dworet",
+        "Actors": "Brie Larson, Samuel L. Jackson, Ben Mendelsohn",
+        "Plot": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+        "Language": "English",
+        "Country": "United States, Australia",
+        "Awards": "9 wins & 56 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "79%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "64/100"
+            }
+        ],
+        "Metascore": "64",
+        "imdbRating": "6.8",
+        "imdbVotes": "548,794",
+        "imdbID": "tt4154664",
+        "Type": "movie",
+        "DVD": "28 May 2019",
+        "BoxOffice": "$426,829,839",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Captain Marvel",
+        "Year": "2019",
+        "Rated": "PG-13",
+        "Released": "08 Mar 2019",
+        "Runtime": "123 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Anna Boden, Ryan Fleck",
+        "Writer": "Anna Boden, Ryan Fleck, Geneva Robertson-Dworet",
+        "Actors": "Brie Larson, Samuel L. Jackson, Ben Mendelsohn",
+        "Plot": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+        "Language": "English",
+        "Country": "United States, Australia",
+        "Awards": "9 wins & 56 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "79%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "64/100"
+            }
+        ],
+        "Metascore": "64",
+        "imdbRating": "6.8",
+        "imdbVotes": "548,794",
+        "imdbID": "tt4154664",
+        "Type": "movie",
+        "DVD": "28 May 2019",
+        "BoxOffice": "$426,829,839",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Thor: Love and Thunder",
+        "Year": "2022",
+        "Rated": "PG-13",
+        "Released": "08 Jul 2022",
+        "Runtime": "31S min",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Taika Waititi",
+        "Writer": "Taika Waititi, Jennifer Kaytin Robinson, Stan Lee",
+        "Actors": "Chris Hemsworth, Natalie Portman, Christian Bale",
+        "Plot": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
+        "Language": "English",
+        "Country": "Australia, United States",
+        "Awards": "3 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "65%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "57/100"
+            }
+        ],
+        "Metascore": "57",
+        "imdbRating": "6.7",
+        "imdbVotes": "174,546",
+        "imdbID": "tt10648342",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$337,952,296",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Hobbit: An Unexpected Journey",
+        "Year": "2012",
+        "Rated": "PG-13",
+        "Released": "14 Dec 2012",
+        "Runtime": "169 min",
+        "Genre": "Adventure, Fantasy",
+        "Director": "Peter Jackson",
+        "Writer": "Fran Walsh, Philippa Boyens, Peter Jackson",
+        "Actors": "Martin Freeman, Ian McKellen, Richard Armitage",
+        "Plot": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug.",
+        "Language": "English",
+        "Country": "New Zealand, United States",
+        "Awards": "Nominated for 3 Oscars. 11 wins & 75 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "64%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "58/100"
+            }
+        ],
+        "Metascore": "58",
+        "imdbRating": "7.8",
+        "imdbVotes": "812,671",
+        "imdbID": "tt0903624",
+        "Type": "movie",
+        "DVD": "19 Mar 2013",
+        "BoxOffice": "$303,030,651",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Venom",
+        "Year": "2018",
+        "Rated": "PG-13",
+        "Released": "05 Oct 2018",
+        "Runtime": "112 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Ruben Fleischer",
+        "Writer": "Jeff Pinkner, Scott Rosenberg, Kelly Marcel",
+        "Actors": "Tom Hardy, Michelle Williams, Riz Ahmed",
+        "Plot": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+        "Language": "English, Mandarin, Malay",
+        "Country": "United States, China",
+        "Awards": "3 wins & 9 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTFkZjdjN2QtOGE5MS00ZTgzLTgxZjAtYzkyZWQ5MjEzYmZjXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "30%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "35/100"
+            }
+        ],
+        "Metascore": "35",
+        "imdbRating": "6.6",
+        "imdbVotes": "476,134",
+        "imdbID": "tt1270797",
+        "Type": "movie",
+        "DVD": "18 Jun 2019",
+        "BoxOffice": "$213,515,506",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Shang-Chi and the Legend of the Ten Rings",
+        "Year": "2021",
+        "Rated": "PG-13",
+        "Released": "03 Sep 2021",
+        "Runtime": "132 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "Destin Daniel Cretton",
+        "Writer": "Dave Callaham, Destin Daniel Cretton, Andrew Lanham",
+        "Actors": "Simu Liu, Awkwafina, Tony Chiu-Wai Leung",
+        "Plot": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+        "Language": "English, Mandarin",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 18 wins & 67 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "91%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "71/100"
+            }
+        ],
+        "Metascore": "71",
+        "imdbRating": "7.4",
+        "imdbVotes": "367,333",
+        "imdbID": "tt9376612",
+        "Type": "movie",
+        "DVD": "12 Nov 2021",
+        "BoxOffice": "$224,543,292",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Free Guy",
+        "Year": "2021",
+        "Rated": "PG-13",
+        "Released": "13 Aug 2021",
+        "Runtime": "115 min",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Shawn Levy",
+        "Writer": "Matt Lieberman, Zak Penn",
+        "Actors": "Ryan Reynolds, Jodie Comer, Taika Waititi",
+        "Plot": "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
+        "Language": "English, Japanese, German",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 5 wins & 28 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "80%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "62/100"
+            }
+        ],
+        "Metascore": "62",
+        "imdbRating": "7.1",
+        "imdbVotes": "355,663",
+        "imdbID": "tt6264654",
+        "Type": "movie",
+        "DVD": "27 Sep 2021",
+        "BoxOffice": "$121,626,598",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Captain Marvel",
+        "Year": "2019",
+        "Rated": "PG-13",
+        "Released": "08 Mar 2019",
+        "Runtime": "123 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Anna Boden, Ryan Fleck",
+        "Writer": "Anna Boden, Ryan Fleck, Geneva Robertson-Dworet",
+        "Actors": "Brie Larson, Samuel L. Jackson, Ben Mendelsohn",
+        "Plot": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+        "Language": "English",
+        "Country": "United States, Australia",
+        "Awards": "9 wins & 56 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "79%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "64/100"
+            }
+        ],
+        "Metascore": "64",
+        "imdbRating": "6.8",
+        "imdbVotes": "548,794",
+        "imdbID": "tt4154664",
+        "Type": "movie",
+        "DVD": "28 May 2019",
+        "BoxOffice": "$426,829,839",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Star Wars: Episode VI - Return of the Jedi",
+        "Year": "1983",
+        "Rated": "PG",
+        "Released": "25 May 1983",
+        "Runtime": "131 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "Richard Marquand",
+        "Writer": "Lawrence Kasdan, George Lucas",
+        "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
+        "Plot": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's...",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Nominated for 4 Oscars. 23 wins & 20 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "83%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "58/100"
+            }
+        ],
+        "Metascore": "58",
+        "imdbRating": "8.3",
+        "imdbVotes": "1,039,673",
+        "imdbID": "tt0086190",
+        "Type": "movie",
+        "DVD": "21 Sep 2004",
+        "BoxOffice": "$309,306,177",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    }
+]
