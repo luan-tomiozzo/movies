@@ -8,7 +8,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
     <link href="manisfest.json" rel="manifest">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="icons/favicon.ico" type="image/x-icon">
     <link rel="icon" href="icons/favicon.ico" type="image/x-icon">
 
     <!-- iOS meta tags and icons -->
@@ -26,36 +26,32 @@
         <img src="img/logo.png" class="logo">
     </header>
     <main class="container">
-        <div class="row dest-title">
+
+        <div class="row cat-title">
             <div class="row col-12">
-                <h2> Filmes em destaque </h2>
+                <h2>Filmes</h2>
             </div>
         </div>
-        <div class="row">
-            <div class="col-12">
-                <div class="card">
-                    <div class="row no-gutters">
-                        <div class="col-12 col-md-4">
-                            <img src="./img/poster2.jpg" class="card-img" alt="...">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title">Captain Marvel</h5>
-                                <p class="card-text"><small class="text-muted">2019</small></p>
-                                <p class="card-text">Carol Danvers becomes one of the universe's most powerful heroes
-                                    when Earth is caught in the middle of a galactic war between two alien races.</p>
-                                <div class="d-grid gap-2">
-                                    <button class="btn btn-info" type="button">Informações</button>
-                                </div>
-                            </div>
-                        </div>
+
+        <div class="row" id="content">
+            <div class="load-icon"></div>
+
+        </div>
+
+
+            <div class="row" id="load-area" style="display: none;">
+                <div class="col-12">
+                    <div class="d-grid gap-2">
+                        <button class="btn btn-secondary" id="btLoadMore" onclick="javascrip:loadMore();"
+                            type="button">Carregar mais</button>
                     </div>
                 </div>
             </div>
-        </div>
+
+
     </main>
     <footer class="container-fluid fixed-bottom">
-        <button type="button" class="btn btn-info" hidden id="btInstall">Instalar</button>
+        <button type="button" class="btn btn-info" id="btInstall">Instalar</button>
     </footer>
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/app.js"></script>
