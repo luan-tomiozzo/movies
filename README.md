@@ -1,5 +1,10 @@
- <img src="screenshot-blog.png">
-<h1 align="center">Movies - app</h1>
+<h1 align="center">
+    <img src="img/header.jpg">
+    <br>
+    <br>
+        <div>Movies - app</div>
+    <br>
+</h1>
 <p align="center">Pagina usando javascrip, para demonstrar o uso de um PWA.</p>
 <h1 align="center"></h1>
 
