@@ -14,14 +14,14 @@ let btLoad = document.getElementById("btLoadMore");
 AJAX Carregar filmes
 */
 
-function loadGames(){
+function loadGames() {
 
     let ajax = new XMLHttpRequest();
     ajax.open("GET", endpoint_principal, true);
     ajax.send();
 
-    ajax.onreadystatechange = function (){
-        if(this.readyState == 4 && this.status == 200){
+    ajax.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
             data_json = JSON.parse(this.responseText);
             setTimeout(() => {
                 //console.log(data_json);
@@ -48,21 +48,21 @@ function printCard() {
     }
 }
 
-function loadMore(){
-    
-    let html_content = "";
-    let final = (contar+quant_filmes);
+function loadMore() {
 
-    if(final > data_json.length){
+    let html_content = "";
+    let final = (contar + quant_filmes);
+
+    if (final > data_json.length) {
         final = data_json.length
         loadArea.style.display = "none";
     }
     console.log(data_json);
 
-    for(let i = contar; i < final; i++ ){
-        html_content+=card(data_json[i]);
+    for (let i = contar; i < final; i++) {
+        html_content += card(data_json[i]);
     }
-    contar+=quant_filmes;
+    contar += quant_filmes;
     content.innerHTML += html_content;
 }
 
@@ -70,24 +70,27 @@ function loadMore(){
 /*
 Template Engine
 */
-card = function ({ Poster, Title, Genre, Released, Plot, BoxOffice }) {
+card = function ({ Poster, Title, Genre, Runtime, Released, Actors, Plot, BoxOffice, Awards }) {
     return `<div class="col-12">
-                    <div class="card">
-                        <div class="row no-gutters">
-                            <div class="col-12 col-md-6 col-lg-4">
-                                <img src="${Poster}" class="card-img" alt="...">
-                            </div>
-                            <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title">${Title}</h5>
-                                <h6><span class="badge bg-secondary">${Genre}</span>
-                                <p class="card-text"><small class="text-muted">${Released}</small></p>
-                                <p class="card-text">${Plot}</p>
-                                <p class="card-text">Box office: U${BoxOffice}</p>
-                                <div class="d-grid gap-2">
-                                    <button class="btn btn-info" href="button">Mais Informações</button>
+                <div class="card">
+                    <div class="row no-gutters">
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <img src="${Poster}" class="card-img" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">                            
+                                <h5 class="card-title">${Title}</h5> 
+                                <span class="badge badge-pill bg-primary">${Genre}</span>
+                                <span class="badge badge-pill bg-warning">${Runtime}</span>
+                                <span class="badge badge-pill bg-success">${Released}</span>                                                                                     
+                                <div>                           
+                                <br>                           
+                                    <b>🙆‍♂️🙆‍♀️ Actors</b><p class="card-text">${Actors}</p>  
+                                    <b>🙄 Plot</b><p class="card-text">${Plot}</p>
+                                    <b>🎟 Box office</b><p>U${BoxOffice}</p>
+                                    <b>🏆 Awards</b><p class="card-text">${Awards}</p>                                    
                                 </div>
-                            </div>  
+                            </div>                            
                         </div>
                     </div>
                 </div>

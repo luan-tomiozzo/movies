@@ -34,6 +34,7 @@ $ git clone <https://github.com/Luan-Tomiozzo/movies.git>
 - Acesse a pasta do projeto pelo VScode
 - No arquivo index.html, clique com o botão direiro e clique em "Open With Live Server" ou dê Alt+O;
 - O servidor inciará na porta:5500 - acesse <http://localhost:5500>
+- 🚀 Veja em funcionamento: <https://luan-tomiozzo.github.io/movies>  
 
 ### 🛠 Tecnologias
 
