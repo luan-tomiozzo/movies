@@ -16,12 +16,13 @@ const FILES_CACHE = [
     "dados.json",
     "offline.html",
 ];
+
 //Instalação do Service Worker
 self.addEventListener("install", (evt) => {
     evt.waitUntil(
-        caches.open(CACHE_NAME).then((cache) => {       
+        caches.open(CACHE_NAME).then((cache) => {
             console.log("Server Worker gravando cache estático");
-            return cache.addAll(FILES_CACHE);       
+            return cache.addAll(FILES_CACHE);
         })
     )
 });
@@ -29,9 +30,10 @@ self.addEventListener("install", (evt) => {
 //Ativando o Service Worker
 self.addEventListener("activate", (evt) => {
     evt.waitUntil(
-        caches.keys().then((keylist) =>{
+        caches.keys().then((keylist) => {
             return Promise.all(keylist.map((key) => {
-                if(key !== CACHE_NAME){
+
+                if (key !== CACHE_NAME) {
                     return caches.delete(key);
                 }
             }))
@@ -41,13 +43,13 @@ self.addEventListener("activate", (evt) => {
 
 //Experiencia Offline
 self.addEventListener("fetch", (evt) => {
-    if(evt.request.mode !== "navigate"){
+    if (evt.request.mode !== "navigate") {
         return;
     }
     evt.respondWith(
-        fetch(evt.request).catch(() =>{
+        fetch(evt.request).catch(() => {
             return caches.open(CACHE_NAME).then((cache) => {
-                return cache.match ("offline.html");
+                return cache.match("offline.html");
             });
         })
     );
