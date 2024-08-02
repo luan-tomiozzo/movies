@@ -5,7 +5,7 @@
         <div>Movies - app</div>
     <br>
 </h1>
-<p align="center">Pagina usando javascrip, para demonstrar o uso de um PWA.</p>
+<p align="center">Pagina usando javascript, para demonstrar o uso de um PWA.</p>
 <h1 align="center"></h1>
 
 
@@ -42,7 +42,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Javascript](https://www.javascript.com/)
 
-
-<h4>
-	🚧 🚀 Em construção...  🚧
-</h4>
